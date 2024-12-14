@@ -24,7 +24,7 @@ Prerequisites
 
  
 
-   Bash è
+   Bash 
 
   Terraform init
 
